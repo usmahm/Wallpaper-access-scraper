@@ -16,4 +16,4 @@ Steps to get the script running on your computer:
 1. Run the scrapper.py file
 	`python scrapper.py`
 	
-This may not run due to the website protection by Cloudfare, check that you have the latest version of **cloudscraper** installed and try again
+This may not run due to the website protection by Cloudfare, check that you have the latest version of `cloudscraper` installed and try again
